@@ -1,0 +1,23 @@
+#for more information visit:
+#https://github.com/epam-cross-platform-lab/swagger-dart-code-generator
+
+targets:
+  $default:
+    sources:
+      - swaggers/**
+      - lib/**
+      - open-api/**
+    builders:
+      chopper_generator:
+        options:
+          header: "//Generated code"
+      swagger_dart_code_generator:
+        options:
+          input_folder: "lib/"
+          output_folder: "lib/services/"
+          input_urls:
+            - "https://localhost:5001/swagger/publicAPI/swagger.json"
+          separate_models: true
+          ignore_headers: false
+          override_equals_and_hashcode: false
+          with_base_url: false

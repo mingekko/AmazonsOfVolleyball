@@ -1,0 +1,45 @@
+e:\Desktop\01 - movies\backend\Backend.Services\bin\Debug\net5.0\Backend.Services.deps.json
+e:\Desktop\01 - movies\backend\Backend.Services\bin\Debug\net5.0\Backend.Services.dll
+e:\Desktop\01 - movies\backend\Backend.Services\bin\Debug\net5.0\ref\Backend.Services.dll
+e:\Desktop\01 - movies\backend\Backend.Services\bin\Debug\net5.0\Backend.Services.pdb
+e:\Desktop\01 - movies\backend\Backend.Services\bin\Debug\net5.0\Backend.Core.dll
+e:\Desktop\01 - movies\backend\Backend.Services\bin\Debug\net5.0\Backend.Core.pdb
+e:\Desktop\01 - movies\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.csproj.AssemblyReference.cache
+e:\Desktop\01 - movies\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.GeneratedMSBuildEditorConfig.editorconfig
+e:\Desktop\01 - movies\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.AssemblyInfoInputs.cache
+e:\Desktop\01 - movies\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.AssemblyInfo.cs
+e:\Desktop\01 - movies\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.csproj.CoreCompileInputs.cache
+e:\Desktop\01 - movies\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.csproj.CopyComplete
+e:\Desktop\01 - movies\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.dll
+e:\Desktop\01 - movies\backend\Backend.Services\obj\Debug\net5.0\ref\Backend.Services.dll
+e:\Desktop\01 - movies\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.pdb
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Services\bin\Debug\net5.0\Backend.Services.deps.json
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Services\bin\Debug\net5.0\Backend.Services.dll
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Services\bin\Debug\net5.0\ref\Backend.Services.dll
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Services\bin\Debug\net5.0\Backend.Services.pdb
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Services\bin\Debug\net5.0\Backend.Core.dll
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Services\bin\Debug\net5.0\Backend.Core.pdb
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.csproj.AssemblyReference.cache
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.GeneratedMSBuildEditorConfig.editorconfig
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.AssemblyInfoInputs.cache
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.AssemblyInfo.cs
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.csproj.CoreCompileInputs.cache
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.csproj.CopyComplete
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.dll
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\ref\Backend.Services.dll
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.pdb
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Services\bin\Debug\net5.0\Backend.Services.deps.json
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Services\bin\Debug\net5.0\Backend.Services.dll
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Services\bin\Debug\net5.0\ref\Backend.Services.dll
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Services\bin\Debug\net5.0\Backend.Services.pdb
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Services\bin\Debug\net5.0\Backend.Core.dll
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Services\bin\Debug\net5.0\Backend.Core.pdb
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.csproj.AssemblyReference.cache
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.GeneratedMSBuildEditorConfig.editorconfig
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.AssemblyInfoInputs.cache
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.AssemblyInfo.cs
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.csproj.CoreCompileInputs.cache
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.csproj.CopyComplete
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.dll
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\ref\Backend.Services.dll
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.pdb
